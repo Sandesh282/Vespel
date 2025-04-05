@@ -1,4 +1,5 @@
 #Vespel
+
 This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. The app includes:
 
 A search bar for filtering songs
