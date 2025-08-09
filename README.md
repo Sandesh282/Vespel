@@ -1,15 +1,69 @@
 # Vespel
 
-This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. The app includes:
+This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. It features vibrant colors, smooth animations, synchronized lyric capability, and adaptive layouts — designed as a concept demo for premium music applications.
 
-A search bar for filtering songs
+## 📸 Screenshots
+| Home Screen | Library Grid | Player View | Profile View|
+|-------------|--------------|-------------|-------------|
+| ![Home](Users/sandesh0410/Downloads/IMG_1109.PNG) | ![Library](/Users/sandesh0410/Downloads/IMG_1110.PNG) | ![Player](/Users/sandesh0410/Downloads/IMG_1111.PNG)
+![Player](/Users/sandesh0410/Downloads/IMG_1112.PNG) 
+![Profile](/Users/sandesh0410/Downloads/IMG_1113.PNG)
 
-A horizontal scroll of trending songs with featured cards
+---
 
-Genre tags to filter music types
+## 🎥 Demo Video
+*Experience the animations, transitions, and synchronized lyrics in action:*
 
-A scrollable list of trending tracks with album art, artist info, and favorite (heart) toggle
+[▶ Watch on Google Drive](https://drive.google.com/file/d/16ed9RXOXnk9xMJ2b2uzbTS6hMkxCnI_K/view?usp=sharing)
 
-Fully designed for dark mode
+---
 
-While the project focuses mainly on UI and user interactions, the visual polish and structure make it ideal for demonstrating SwiftUI design principles.
+## ✨ UI Highlights
+
+- **Immersive Visual Design** – Glassmorphism-inspired effects with bold, adaptive color palettes.
+- **Smooth Animations** – Custom transitions and motion effects powered by Core Animation.
+- **Dynamic Grid Layouts** – Responsive, animated music library interface.
+- **Synchronized Lyric Capability** – Precise timing support for karaoke-like experiences.
+- **Mini Player Components** – Always-accessible, animated control bar.
+- **Adaptive Themes** – Visuals adapt to the mood and style of the track.
+
+---
+
+## 🛠 Tech Stack
+
+| Technology / Framework  | Purpose |
+|-------------------------|---------|
+| **Swift**               | Core logic and data handling |
+| **SwiftUI**             | Declarative UI framework for building responsive layouts |
+| **Core Animation**      | Smooth, custom UI transitions |
+| **AVFoundation**        | Audio playback support for lyric synchronization |
+| **Custom SwiftUI Components** | Player controls, progress bars, and library grids |
+| **Xcode**               | Development environment |
+
+---
+
+## 🚀 Running the Demo
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/Vespel.git
+   ```
+2. Open Vespel.xcodeproj in Xcode.
+
+3. Build and run on your device or simulator.
+
+4. Use the included demo tracks or your own local files (due to licensing restrictions, no commercial music is included).
+
+## 📂 Project Structure
+```bash
+Vespel/
+ ├── Models/        # Data structures for tracks and lyrics
+ ├── Views/         # Main SwiftUI screens
+ ├── Components/    # Reusable UI widgets and player elements
+ ├── Utilities/     # Audio handling, timing logic
+ ├── Assets/        # Colors, icons, and demo media
+```
+## 🎵 Music Attribution
+
+The demo video includes the track **"Havana" by Camila Cabello** for demonstration purposes only.  
+All rights to the song belong to their respective copyright holders.
