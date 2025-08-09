@@ -3,11 +3,28 @@
 This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. It features vibrant colors, smooth animations, synchronized lyric capability, and adaptive layouts — designed as a concept demo for premium music applications.
 
 ## 📸 Screenshots
-| Home Screen | Library Grid | Player View | Profile View|
-|-------------|--------------|-------------|-------------|
-| ![Home](Users/sandesh0410/Downloads/IMG_1109.PNG) | ![Library](/Users/sandesh0410/Downloads/IMG_1110.PNG) | ![Player](/Users/sandesh0410/Downloads/IMG_1111.PNG)
-![Player](/Users/sandesh0410/Downloads/IMG_1112.PNG) 
-![Profile](/Users/sandesh0410/Downloads/IMG_1113.PNG)
+<table>
+<tr>
+<td width="378" align="center"><b>Home View</b><br>
+<img src="https://github.com/user-attachments/assets/998b902e-6071-481b-94f3-de9a887ee6b4" width="100%">
+</td>
+<td width="378" align="center"><b>Library View</b><br>
+<img src="https://github.com/user-attachments/assets/3da54bb4-2f46-4a08-a7f1-462007f9fcac" width="100%">
+</td>
+<td width="378" align="center"><b>Player View</b><br>
+<img src="https://github.com/user-attachments/assets/5d2e1943-901b-4ea0-a3e8-3c77c4f4cb8e" width="100%">
+</td>
+</tr>
+<tr>
+<td width="378" align="center"><b>Player View (Alt)</b><br>
+<img src="https://github.com/user-attachments/assets/PLAYER_VIEW_2_PLACEHOLDER" width="100%">
+</td>
+<td width="378" align="center"><b>Profile View</b><br>
+<img src="https://github.com/user-attachments/assets/PROFILE_VIEW_PLACEHOLDER" width="100%">
+</td>
+<td width="378"></td>
+</tr>
+</table>
 
 ---
 
