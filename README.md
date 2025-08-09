@@ -17,10 +17,10 @@ This is a visually-rich music player UI built using SwiftUI, focusing on user ex
 </tr>
 <tr>
 <td width="378" align="center"><b>Player View (Alt)</b><br>
-<img src="https://github.com/user-attachments/assets/PLAYER_VIEW_2_PLACEHOLDER" width="100%">
+<img src="https://github.com/user-attachments/assets/41611952-3995-4e86-bc69-84b4446d24e9" width="100%">
 </td>
 <td width="378" align="center"><b>Profile View</b><br>
-<img src="https://github.com/user-attachments/assets/PROFILE_VIEW_PLACEHOLDER" width="100%">
+<img src="https://drive.google.com/file/d/1HJum0MtFBr9oR93PC8XStD0TiJqn7nVD/view?usp=sharing" width="100%">
 </td>
 <td width="378"></td>
 </tr>
