@@ -63,7 +63,7 @@ This is a visually-rich music player UI built using SwiftUI, focusing on user ex
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Vespel.git
+   git clone https://github.com/Sandesh282/Vespel.git
    ```
 2. Open Vespel.xcodeproj in Xcode.
 
