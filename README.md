@@ -1,6 +1,6 @@
 # Vespel
 
-This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. It features vibrant colors, smooth animations, synchronized lyric capability, and adaptive layouts — designed as a concept demo for premium music applications.
+This is a visually-rich music player UI built using SwiftUI, focusing on user experience, smooth scrolling, and aesthetic design. It features vibrant colors, smooth animations, synchronized lyric capability, and adaptive layouts, designed as a concept demo for premium music applications.
 
 ## 📸 Screenshots
 <table>
@@ -29,7 +29,6 @@ This is a visually-rich music player UI built using SwiftUI, focusing on user ex
 ---
 
 ## 🎥 Demo Video
-*Experience the animations, transitions, and synchronized lyrics in action:*
 
 [▶ Watch on Google Drive](https://drive.google.com/file/d/16ed9RXOXnk9xMJ2b2uzbTS6hMkxCnI_K/view?usp=sharing)
 
